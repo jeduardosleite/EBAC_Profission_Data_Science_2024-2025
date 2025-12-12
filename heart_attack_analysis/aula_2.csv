@@ -1,0 +1,5 @@
+"max_age","min_age","median_age","heart_attack_chance","Sex"
+"70","29","51.0","More chance","Male"
+"76","34","55.0","More chance","Female"
+"77","35","56.0","Less chance","Male"
+"66","43","59.0","Less chance","Female"

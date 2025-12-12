@@ -1,0 +1,5 @@
+"Amount","Sex","heart_attack_chance","sexo_describe"
+"114","1","0","Male with less chance"
+"93","1","1","Male with more chance"
+"72","0","1","Female with more chance"
+"24","0","0","Female with less chance"
